@@ -1,0 +1,10 @@
+{
+  "keys": [
+    {
+      "e": "AQAB",
+      "kid": "attacker-key",
+      "kty": "RSA",
+      "n": "wUVAc4swMgYI9z661QrHLF311vbP1dYB9wFv0ocZpm-RKjf2jFzXoPD1IKuuqCMIPkxyHdg0KY5UqeBaPeX-YPhVRJkLL_Wo3b6AKIewpo9voH-5ffPxc0q-kQCV0ZyZJ0DvHMEs7DXEMvHz-u0he7dga9hNlj4QHClwpZmho2w1Zv77VT5vLP5pb9KfXHg_eFA_HoVHVRPwruYaH37t9PB-ggRsFXdf7A9kBUshJLEzD3kQFbU9n67Bkyr0MV0YDwP6YNL7EpYiizNFsUUBiQYq4anAfde4fAHjW78XWW_0-eB295GjqFMxjn69_JocnnOU3-ypDtTen3icwtNb_Q"
+    }
+  ]
+}
